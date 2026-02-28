@@ -1,0 +1,13 @@
+Tools & Technologies (Evolving)
+
+SQL / Oracle
+
+Linux
+
+Git & GitHub
+
+Java
+
+DevOps tools
+
+Automation scripting
