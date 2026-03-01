@@ -5,10 +5,12 @@ SQL / Oracle
 Linuxhis repository will be regularly updated with:
 
 
+Linux
+test
 Git & GitHub
-
+test
 Java
-
+test
 DevOps tools
 
 Automathis repository will be regularly updated with:

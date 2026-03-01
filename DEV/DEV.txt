@@ -2,8 +2,13 @@ Tools & Technologies (Evolving)
 SQL / OracleLinux
 his repository will be regularly updated with:
 
+tet
+SQL / Oracle
+test
+Linux
+test
 Git & GitHub
-
+test
 Java
 
 DevOhis repository will be regularly updated with:
@@ -19,5 +24,7 @@ his repository will be regularly updated with:
 Optimized solutions
 
 Real-world inspired use cases
+test
+DevOps tools
 
 Architecture explorations
