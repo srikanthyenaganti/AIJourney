@@ -1,13 +1,23 @@
 Tools & Technologies (Evolving)
-
-SQL / Oracle
-
-Linux
+SQL / OracleLinux
+his repository will be regularly updated with:
 
 Git & GitHub
 
 Java
 
-DevOps tools
+DevOhis repository will be regularly updated with:
+ps tools
+his repository will be regularly updated with:
 
 Automation scripting
+
+T
+New experiments
+his repository will be regularly updated with:
+
+Optimized solutions
+
+Real-world inspired use cases
+
+Architecture explorations
