@@ -7,7 +7,7 @@ Linux
 Git & GitHub
 
 Java
-
+test
 DevOps tools
 
 Automation scripting
