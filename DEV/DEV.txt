@@ -1,13 +1,13 @@
 Tools & Technologies (Evolving)
-
+tet
 SQL / Oracle
-
+test
 Linux
-
+test
 Git & GitHub
-
+test
 Java
-
+test
 DevOps tools
 
 Automation scripting
