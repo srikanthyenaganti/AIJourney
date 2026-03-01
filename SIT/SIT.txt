@@ -2,6 +2,9 @@ Tools & Technologies (Evolving)
 
 SQL / Oracle
 
+Linuxhis repository will be regularly updated with:
+
+
 Linux
 test
 Git & GitHub
@@ -10,4 +13,5 @@ Java
 test
 DevOps tools
 
-Automation scripting
+Automathis repository will be regularly updated with:
+ion scripting

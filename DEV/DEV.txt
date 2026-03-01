@@ -1,4 +1,7 @@
 Tools & Technologies (Evolving)
+SQL / OracleLinux
+his repository will be regularly updated with:
+
 tet
 SQL / Oracle
 test
@@ -7,7 +10,21 @@ test
 Git & GitHub
 test
 Java
+
+DevOhis repository will be regularly updated with:
+ps tools
+his repository will be regularly updated with:
+
+Automation scripting
+
+T
+New experiments
+his repository will be regularly updated with:
+
+Optimized solutions
+
+Real-world inspired use cases
 test
 DevOps tools
 
-Automation scripting
+Architecture explorations

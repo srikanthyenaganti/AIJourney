@@ -4,7 +4,8 @@ SQL / Oracle
 
 Linux
 
-Git & GitHub
+Git & his repository will be regularly updated with:
+GitHub
 
 Java
 test
